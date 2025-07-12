@@ -1,0 +1,10 @@
+URL = 'https://krasnoyarsk.cian.ru/cat.php'
+
+DEAL_TYPE = 'deal_type'
+MAX_PRICE = 'maxprice'
+MIN_PRICE = 'minprice'
+OFFER_TYPE = 'offer_type'
+ROOM1 = 'room1'
+ROOM2 = 'room2'
+ROOM3 = 'room3'
+PAGE = 'p'
